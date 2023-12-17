@@ -243,10 +243,10 @@ class Database
    [config.php](lab10_tugas/config.php)
 
 3. Membuat file `database.php`
-   [database.php](lab10_tugas/databases.php)
+   [databases.php](lab10_tugas/databases.php)
 
 5. Membuat file `home.php`
-   [formlibrary.php](lab10_tugas/home.php)
+   [home.php](lab10_tugas/home.php)
 
 7. Konfigurasikan dengan praktikum sebelumnya
    [index.php](lab10_tugas/index.php)
