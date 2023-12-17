@@ -240,19 +240,19 @@ class Database
 
 ## Pertanyaan dan tugas
 1. Membuat file `config.php`
-   [config.php](lab10_tugas/config.php)
+   [config.php](tugas_lab10/config.php)
 
 3. Membuat file `database.php`
-   [databases.php](lab10_tugas/databases.php)
+   [databases.php](tugas_lab10/databases.php)
 
 5. Membuat file `home.php`
-   [home.php](lab10_tugas/home.php)
+   [home.php](tugas_lab10/home.php)
 
 7. Konfigurasikan dengan praktikum sebelumnya
-   [index.php](lab10_tugas/index.php)
-   [tambah.php](lab10_tugas/tambah.php)
-   [ubah.php](lab10_tugas/ubah.php)
-   [hapus.php](lab10_tugas/hapus.php)
+   [index.php](tugas_lab10/index.php)
+   [tambah.php](tugas_lab10/tambah.php)
+   [ubah.php](tugas_lab10/ubah.php)
+   [hapus.php](tugas_lab10/hapus.php)
 
 -> **Output Tugas :**
 
